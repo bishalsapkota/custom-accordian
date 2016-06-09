@@ -1,0 +1,54 @@
+							 
+.content,
+.accordian-holder,
+.accordian-box,
+.acoordian-menu,
+.acoordian-menu a,
+.acoordian-menu a h2,
+.acc-info,
+.acc-info p{
+	float:left;
+	width:100%;
+}
+
+.content{
+	background:#434343;
+	padding:30px 0px;
+}
+
+.accordian-box{
+	margin-bottom:20px;
+}
+
+.acoordian-menu{
+	background:#CC7073;
+}
+
+.acoordian-menu a{
+	padding:10px 0px 10px 10px;
+	width:95%;
+}
+
+.acoordian-menu a h2{
+	font-size:20px;
+	color:#fff;
+	padding-bottom:0;
+}
+
+.acoordian-menu span{
+	float:left;
+	color:#fff;
+	font-size:40px;
+	font-weight:600;
+	margin-top:16px;
+	
+}
+
+.acc-info{
+	padding:20px;
+}
+
+.acc-info p {
+	font-size:16px;
+	color:#fff;
+}
